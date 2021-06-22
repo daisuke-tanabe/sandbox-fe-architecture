@@ -1,0 +1,54 @@
+/** @define wrapper */
+.wrapper {
+  width: 100%;
+}
+
+.wrapper_div {
+  width: 100px;
+}
+
+.wrapper_div-m {
+  width: 100px;
+}
+
+.wrapper__div {
+  font-size: 24px;
+}
+
+.wrapper__div--m {
+  font-size: 24px;
+}
+
+.wrapper__div--m__div {
+  font-size: 24px;
+}
+
+.wrapper__divDiv {
+  font-size: 24px;
+}
+
+.wrapper__div__div {
+  font-size: 24px;
+}
+
+.wrapper__divDiv--m {
+  font-size: 24px;
+}
+
+/** @define list */
+.list {
+  list-style: none;
+}
+
+.list__item {
+  padding: 10px;
+}
+
+/** @define field */
+.field {
+  width: 300px;
+}
+
+.field__text {
+  font-size: 13px;
+}

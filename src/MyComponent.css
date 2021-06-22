@@ -1,0 +1,35 @@
+.MyComponent {
+  width: 100%;
+}
+
+.MyComponent_div {
+  width: 100px;
+}
+
+.MyComponent_div-m {
+  width: 100px;
+}
+
+.MyComponent__div {
+  font-size: 24px;
+}
+
+.MyComponent__div--m {
+  font-size: 24px;
+}
+
+.MyComponent__div--m__div {
+  font-size: 24px;
+}
+
+.MyComponent__divDiv {
+  font-size: 24px;
+}
+
+.MyComponent__div__div {
+  font-size: 24px;
+}
+
+.MyComponent__divDiv--m {
+  font-size: 24px;
+}
